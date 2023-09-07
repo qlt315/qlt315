@@ -1,16 +1,37 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=248CF7&multiline=true&width=435&lines=Welcome+to+my+Github+homepage!+" alt="Typing SVG" /></a>
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qlt315.qlt315">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Langtian+Qin....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qlt315&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+### Hi there 👋, I am [Langtian](https://qlt315.github.io/)! 😁
+<!--
+**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-
-<!-- - 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Statistics
+- 👯 I’m looking to collaborate on ...
+-->
+
+Hello, my name is Langtian Qin and I am a master's student at [University of Science and Technology of China](https://en.ustc.edu.cn/) majoring in Electrical Engineering. My current research interests lie in resource allocation in wireless communication systems and heterogeneous networks.
+
+- 🔭 I’m currently researching at the intersection of machine learning and wireless communication systems
+- 💬 Brainstorm with me over tech, algorithms, career, and video games 
+- 📫 How to reach me: qlt315@126.com or qlt315@mail.ustc.edu.cn or l5qin@ucsd.edu
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qlt315&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Langtian's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlt315&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="830" height="500" />
+
 
