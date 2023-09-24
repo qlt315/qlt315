@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Langtian Qin and I am a master's student at [University of Science and Technology of China](https://en.ustc.edu.cn/) majoring in Electrical Engineering. My current research interests lie in resource allocation in wireless communication systems and heterogeneous networks.
+Hello, my name is Langtian Qin and I am a third-year master student at [University of Science and Technology of China](https://en.ustc.edu.cn/) majoring in Electrical Engineering. My current research interests lie in resource allocation in wireless communication systems and heterogeneous networks.
 
 - 🔭 I’m currently researching at the intersection of machine learning and wireless communication systems
 - 💬 Brainstorm with me over tech, algorithms, career, and video games 
