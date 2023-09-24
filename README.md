@@ -31,6 +31,6 @@ Hello, my name is Langtian Qin and I am a master's student at [University of Sci
 | <a href="https://github.com/qlt315/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qlt315&show_icons=true&theme=buefy&hide_border=true" alt="Langtian's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlt315&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="830" height="500" />
+  <!--<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="830" height="500" />-->
 
 
