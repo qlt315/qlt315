@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-### Hi there 👋, I am Langtian! 😁
+### Hi there 👋, I am Langtian! 😁 ###
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Langtian Qin and I am a third-year master student at [University of Science and Technology of China](https://en.ustc.edu.cn/) majoring in Electrical Engineering. My research interests lie in wireless communication and network systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless network architectures
+Hello, my name is Langtian Qin and I am a third-year master student at [University of Science and Technology of China](https://en.ustc.edu.cn/) majoring in Electrical Engineering. My research interests lie in wireless communication and network systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless network architectures.
 
 - 🔭 I’m currently researching at the intersection of machine learning and wireless communication systems
 - 💬 Brainstorm with me over tech, algorithms, career, and video games 
