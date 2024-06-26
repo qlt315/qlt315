@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-Hi, my name is Langtian Qin and I am a third-year master student at [University of Science and Technology of China](https://en.ustc.edu.cn/) majoring in Electrical Engineering. My research interests lie in wireless communication and network systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless network architectures.
+Hi, my name is Langtian Qin and I am an imcoming Computer Science PhD student at UC Irvine. My research interests lie in wireless communication and networking systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless network architectures.
 
 - 🔭 I’m currently researching at the intersection of machine learning and wireless communication systems
 - 💬 Brainstorm with me over tech, algorithms, career, and video games 
