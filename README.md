@@ -9,7 +9,7 @@ Hi, my name is Langtian Qin and I am a Computer Science PhD student at UC Irvine
 
 - 🔭 I’m currently researching at the intersection of machine learning and wireless communication systems
 - 💬 Brainstorm with me over tech, algorithms, career, and video games 
-- 📫 How to reach me: qlt315@126.com or qlt315@mail.ustc.edu.cn or langtiq@uci.edu
+- 📫 How to reach me: qlt315@126.com or langtiq@uci.edu
 
 | <a href="https://github.com/qlt315/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qlt315&show_icons=true&theme=buefy&hide_border=true" alt="Langtian's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlt315&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
