@@ -11,8 +11,6 @@ Hi, my name is Langtian Qin and I am a Computer Science PhD student at UC Irvine
 - 💬 Brainstorm with me over tech, algorithms, career, and video games 
 - 📫 How to reach me: qlt315@126.com or langtiq@uci.edu
 
-[![Langtian's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlt315)](https://github.com/anuraghazra/github-readme-stats)
-
   <!--<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="830" height="500" />-->
 
 
